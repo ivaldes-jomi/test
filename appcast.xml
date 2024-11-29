@@ -5,21 +5,21 @@
     <link>https://example.com/appcast</link>
     <description>Updates for the app</description>
     <item>
-      <title>Version 1.0.4</title>
+      <title>Version 1.0.3</title>
       <sparkle:version>1003</sparkle:version>
-      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <description>
         <![CDATA[
         - Bug fixes and performance improvements.
         ]]>
       </description>
       <enclosure 
-        url="https://example.com/downloads/app-1.0.4.apk" 
+        url="https://example.com/downloads/app-1.0.3.apk" 
         sparkle:os="android" 
         length="12345" 
         type="application/vnd.android.package-archive"/>
       <enclosure 
-        url="https://example.com/downloads/app-1.0.4.ipa" 
+        url="https://example.com/downloads/app-1.0.3.ipa" 
         sparkle:os="ios" 
         length="12345" 
         type="application/octet-stream"/>
