@@ -12,16 +12,6 @@
         - Corrección de errores y mejoras de rendimiento.
         ]]>
       </description>
-      <enclosure 
-        url="https://play.google.com/store/apps/details?id=llc.app.jomi.jomi&pcampaignid=web_share" 
-        sparkle:os="android" 
-        length="12345" 
-        type="application/vnd.android.package-archive"/>
-      <enclosure 
-        url="https://example.com/downloads/app-1.0.4.ipa" 
-        sparkle:os="ios" 
-        length="12345" 
-        type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
